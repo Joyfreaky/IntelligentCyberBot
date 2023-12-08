@@ -52,7 +52,7 @@ tensorflow-rocm @ file:///tmp/tensorflow_pkg/tensorflow_rocm-2.13.0.570-cp39-cp3
 termcolor==2.1.1
 typing-extensions==3.10.0.2
 unattended-upgrades==0.1
-urllib3==1.25.8
+urllib3==1.26.18
 virtualenv==20.24.5
 Werkzeug==2.3.7
 wrapt==1.14.1
