@@ -54,6 +54,6 @@ typing-extensions==3.10.0.2
 unattended-upgrades==0.1
 urllib3==1.25.8
 virtualenv==20.24.5
-Werkzeug==2.3.7
+Werkzeug==2.3.8
 wrapt==1.14.1
 zipp==1.0.0
